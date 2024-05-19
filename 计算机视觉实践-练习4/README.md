@@ -1,0 +1,9 @@
+代码文件夹中包含计算两张图像单应性变换矩阵的代码Homography_Matrix.py
+
+以及检测单应性矩阵正确性的代码test.py
+
+输入图像存储在test_images文件夹中
+
+输出图像存储在results文件夹中
+
+单应性矩阵存储在Matrix_result文件夹中，用于测试时读取使用
